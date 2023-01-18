@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game0.unity
+    guid: 42b343410698916439f9db1fd9fc9fc1
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game1.unity
+    guid: 7cac005db213bae47b8a44ecd2d1e70b
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game2.unity
+    guid: 5981096c702d6b74fb5301bf65904ef5
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game3.unity
+    guid: b5e64de45b8da3c49a6424ae8fd2a958
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game4.unity
+    guid: a4ca791ecbe112f49b1aea78ac5baa37
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game5.unity
+    guid: b6d63a0114d1e3b42ac9aa3b1d403239
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game6.unity
+    guid: b82c94e1847aa294bbf75c3b254981f3
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game7.unity
+    guid: 19cf131e2f3570d4f91c446f57a02917
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game8.unity
+    guid: e65f835a4db774d419e4c5728047f32f
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/Game9.unity
+    guid: 230b3fc4191f4f444ab12ddde7c629a7
+  - enabled: 1
+    path: Assets/Scenes/NamaHewan/ResultNama.unity
+    guid: 8c509e7ba7f76434cb894823f6148787
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk0.unity
+    guid: 2ec0066779c15884590ecfc38fa8a436
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk1.unity
+    guid: 8d47741d1024443438a3d9707cc49388
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk2.unity
+    guid: dba8f17fb59740349a22353568d6c447
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk3.unity
+    guid: 6eee9a7393f54dc43b3b49221470e2c6
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk4.unity
+    guid: 5ab68cf68dc61494f82508484bb0796a
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk5.unity
+    guid: 23d00a5b8bbd79d45b7c3dee0e9dd602
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk6.unity
+    guid: b0e725f379502c94d90752689d365c5a
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk7.unity
+    guid: 793cb11636bb26a439b63f2563d7383f
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk8.unity
+    guid: 45fb952170c2a2345b024a6b78ce9232
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/GameBentuk9.unity
+    guid: 42e1b0f39a35e074f9441eae43b87eb0
+  - enabled: 1
+    path: Assets/Scenes/BentukHewan/ResultBentuk.unity
+    guid: 3e76907534d55494a814f08638463b02
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f3038308046768e40b4d0774cdbd1a28, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: c60ab2fcd5d55514686c05adc4aa9ba4, type: 2}
